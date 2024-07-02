@@ -1,6 +1,6 @@
 # Computer Vision
 
-This repository contains implementations of various computer vision techniques on a dataset of plant diseases. The dataset used is from [Kaggle]. The goal of this project is to explore different methods and evaluate their accuracy in classifying plant diseases.
+This repository contains implementations of various computer vision techniques on a dataset of plant diseases. The goal of this project is to explore different methods and evaluate their accuracy in classifying plant diseases.
 
 ## Dataset
 
